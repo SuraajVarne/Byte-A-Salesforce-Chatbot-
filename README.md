@@ -37,8 +37,3 @@ Byte is a Salesforce chatbot designed to assist sales representatives by automat
    ```bash
    git clone https://github.com/your-username/byte-custom-apex-chatbot.git
    cd byte-custom-apex-chatbot
-
-
-### Video Demo: 
-I Will provide a video demo of Byte: 
-https://github.com/user-attachments/assets/523b36e3-997f-440f-a018-f85fbdb38efc
