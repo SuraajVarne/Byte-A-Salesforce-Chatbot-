@@ -36,8 +36,9 @@ API Integration: Exposed REST endpoints for Flask-Python services, ensuring data
 Salesforce Developer Org or Sandbox Environment
 Salesforce CLI or Developer Console for Apex Code Deployment
 Python Environment with Flask and SQLAlchemy Installed
-Cloning the Repository
-bash
+### Cloning the Repository
+
+``` bash
 Copy
 Edit
 git clone https://github.com/SuraajVarne/Byte-A-Salesforce-Chatbot-
