@@ -39,11 +39,11 @@ Python Environment with Flask and SQLAlchemy Installed
 ### Cloning the Repository
 
 ``` bash
-Copy
-Edit
+
 git clone https://github.com/SuraajVarne/Byte-A-Salesforce-Chatbot-
 cd byte-salesforce-chatbot
 Confidentiality Disclaimer
 ⚠️ Due to confidentiality constraints, this repository includes only a subset of publicly shareable components. Proprietary or sensitive code developed during this project cannot be disclosed.
 
+```
 ### Youtube Link to watch a Demo: https://drive.google.com/drive/folders/1AzdUUOGINvVZa6b7RYW_OVjtuh8Fe7MA?usp=drive_link
